@@ -18,3 +18,7 @@ The App's motive is to showcase React and Firebase skills to develop a full stac
 * npm install react-instagram-embed.
 * npm install @material-ui/core.
 * Run npm start and Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Hosted at
+
+https://fake-insta-ffa35.web.app/
