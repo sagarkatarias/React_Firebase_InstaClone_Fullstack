@@ -1,4 +1,4 @@
-# Insta Lookalike App Using React and Firebase
+# Insta Look alike App Using React and Firebase
 
 The App's motive is to showcase React and Firebase skills to develop a full stack application like Instagram, using CSS and materialUi for styling the app like Instagram and deploying it using Firebase.
 
